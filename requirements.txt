@@ -1,0 +1,9 @@
+streamlit>=1.32.0
+pyswisseph>=2.10.3.2
+matplotlib>=3.8.0
+geopy>=2.4.1
+timezonefinder>=6.5.0
+pytz>=2024.1
+anthropic>=0.34.0
+scikit-learn>=1.4.0
+numpy>=1.26.0
